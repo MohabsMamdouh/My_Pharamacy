@@ -1,0 +1,28 @@
+.content-order {
+    width: 100%;
+    height: auto;
+    padding: 30px;
+    margin-top: 100px;
+}
+
+.content-order .order {
+    width: 80%;
+    height: auto;
+    padding: 15px;
+    border: 1px solid #ddd;
+    margin: 5px auto;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+hr {
+    width: 80%;
+}
+
+footer {
+    margin-bottom: 0px;
+    margin-top: 56px;
+}

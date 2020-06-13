@@ -1,0 +1,46 @@
+.numOrder {
+    margin-top: 100px;
+}
+
+.content {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    margin: 30px;
+    margin-bottom: 19px;
+}
+
+.content form {
+    width: 60%;
+    height: auto;
+    padding: 10px;
+    border: 1px solid #eee;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.content form label {
+    display: block;
+}
+
+input ,
+textarea {
+    display: block;
+    padding: 5px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #000;
+    width: 99%;
+    margin: 1%;
+    background: none;
+}
+
+textarea {
+    resize: none;
+    height: 200px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}

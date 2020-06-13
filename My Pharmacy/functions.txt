@@ -1,0 +1,18 @@
+functions  1
+        checkOrder
+
+Ended functions  17
+        Login(Admin - Doctor)
+        Add (Doctor - Medicine)
+        Delete (Doctor - Medicien)
+        get (price - order - finishedOrder - Report - Doctor - Medicine)
+        search (Medicine - )
+        Set (Order - Report)
+        Update (Medicine - Doctor)
+        
+Pages   1
+        order
+
+
+out of stock ويرجعلهorderعايزين لو العميل دخل ادوية مش موجودة ميخزنش القيم في ال 
+add function search in stock page and doctor page

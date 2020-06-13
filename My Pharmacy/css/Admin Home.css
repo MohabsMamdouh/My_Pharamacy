@@ -1,0 +1,56 @@
+.info_Dr {
+    width: 100%;
+    height: 100px;
+    margin-top: 120px;
+    margin-bottom: 70px;
+}
+
+.info_Dr .info {
+    width: 50%;
+    margin: auto;
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+
+.info_Dr .info span {
+    display: block;
+}
+
+.content {
+    width: 100%;
+    height: 500px;
+}
+
+.content .container .content_order div {
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    cursor: pointer;
+    margin: 50px;
+    background: #f1f1f1;
+    display: inline-block;
+    transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+}
+
+.content .container .content_order {
+    text-align: center;
+}
+
+.content div p {
+    margin: 50px auto;
+    transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+}
+
+.content .container .content_order div:hover {
+    box-shadow: 0 8px 6px -6px #ddd,
+                inset 0px 0px 10px rgb(102, 92, 252);
+    background: #ddd;    
+}

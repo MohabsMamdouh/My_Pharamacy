@@ -1,0 +1,43 @@
+.content {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    margin-top: 90px;
+    margin-bottom: 19px;
+}
+
+.manageStock {
+    margin-bottom: 15px;
+}
+
+.manageStock a {
+    margin-left: 15px;
+}
+
+.drug {
+    width: auto;
+    height: auto;
+    padding: 10px;
+    border: 1px solid #ddd;
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.drug:hover {
+    box-shadow: 1px 1px 5px 1px #000;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.drug span {
+    /* display: block; */
+}
+
+footer {
+    margin-bottom: 0px;
+    margin-top: 50px
+}

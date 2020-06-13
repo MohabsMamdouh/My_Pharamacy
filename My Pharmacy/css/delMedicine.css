@@ -1,0 +1,36 @@
+.content {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    margin-top: 90px;
+    margin-bottom: 19px;
+    padding-bottom: 195px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.new form {
+    width: 60%;
+    height: auto;
+    border: 1px solid #ddd;
+    box-shadow: 1px 1px 5px 1px #000;
+    padding: 20px;
+    margin: auto;
+}
+
+.new form label {
+    display: block;
+}
+
+.new form input {
+    border: none;
+    width: 99%;
+    border-bottom: 1px solid #000;
+    padding: 5px;
+    display: block;
+    margin: 1% auto;
+    outline: none;
+}

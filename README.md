@@ -1,2 +1,2 @@
 # My_Pharamacy
-This is HTML5 template
+This is Mini project in PHP and MYSQL
